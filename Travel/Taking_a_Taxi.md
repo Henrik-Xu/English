@@ -1,9 +1,9 @@
 # Taking a Taxi
 `Pick up`
 
-接车；去接
+接车；去接 `pick-up line` `pick-up artist` 把妹艺术
 
-Can the taxi pick me up in front of the library?
+Can the taxi pick me up in front of the library? 
 
 `Drop off`
 
@@ -19,7 +19,7 @@ Can you pull over up ahead? I’ll get out there.
 
 `Park`
 
-停车
+停车 `parking spot`:停车位 `parking lot`:停车场
 
 Where did you park the car?
 
@@ -35,11 +35,15 @@ Oh no, we just missed the turn. Can you make a u-turn?
 
 Can you make a left at the lights?
 
-`Intersection`
+`Intersection`/`crossroad`
 
 十字路口
 
 It’s the next intersection.
+
+`roundabout`
+
+圆形转盘
 
 `Flat rate`
 
@@ -49,11 +53,11 @@ What is the flat rate for taxi’s in the city?
 
 `Fare`
 
-车费
+车费 fee
 
 What’s the fare?
 
-Hail a taxi / get a taxi / catch a cab
+`Hail a taxi` / `get a taxi` / `catch a cab`
 
 打车
 
@@ -61,17 +65,21 @@ Let’s just hail a taxi. Are you good at hailing taxis?
 
 Can we get a taxi here? Is it easy to catch a cab on this street?
 
+`hitchhike`/`Thumb a ride`
+
+搭便车，一般免费的。
+
 `Receipt`
 
 发票
 
 Can I please have a receipt?
 
-`Metre`
+`Metre`/`Meter`
 
-表
+里程表 a Gauge
 
-Is the metre running?
+Is the metre running? Can you run the metre.
 
 `Back seat`
 
@@ -85,11 +93,27 @@ Can I just put my bag in the back seat?
 
 I like to sit in the passenger seat.
 
+`shotgun seat`
+
+副驾驶
+
 `Trunk`
 
-后备箱
+后备箱/躯干
 
-Can I put my bags in the trunk?
+Can I put my bags in the trunk? 
+
+pop open the trunk - 打开后备箱
+
+pop open the hood - 打开引擎盖
+
+`fly the cork` 飞开软木塞
+
+`greenhorn`/ `newbie`: 新手
+
+`detour`: 车辆改道
+
+`terracotta warriors`  兵马俑
 
 ## Common Phrases
 * “Where are you going?”
@@ -98,7 +122,8 @@ Can I put my bags in the trunk?
 * “Can you pull over after the lights?”
 * “Just stop in front of that building, I’ll get out here.”
 * “Could you send the taxi to (address)?”
-* “How much do I owe you?”
+* “How much do I owe you?”/ "how much do i pay you?"/ "How much is it"/ "What's the total?"
+* "Can i pay on credit card/with cash"
 
 # Homework
 Write a dialog taking a taxi.

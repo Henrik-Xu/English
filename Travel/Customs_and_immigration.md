@@ -1,4 +1,7 @@
 # Customs and immigration
+
+海关和移民
+
 `Border`
 
 国界；边界 cross the border 过了边界
@@ -13,7 +16,15 @@ Most countries require you to fill in a declaration card.
 
 `Arrival card/form`
 
+入境卡
+
 For China, foreigners just have to fill in a small arrival card.
+
+`visa`
+
+签证
+
+travel visa, business visa, family visa
 
 `Fill in`
 
@@ -45,11 +56,13 @@ Residents line up on the left, visitors line up on the right.
 
 What is your nationality?
 
-`Citizenship`
+`Citizenship`/ `Dual Citizenship`
 
-公民身份
+公民身份 the status of citizen with rights and duties.
 
 What is your citizenship?
+
+I have Chinese citizenship/ I am a citizen of China.
 
 `Firearms`/`weapons`
 
@@ -77,15 +90,21 @@ The border agent will sometimes ask you a few questions.
 
 `kiosk`
 
-亭
+售货亭， similar to `booth` or `stall`
 
 Canadian Citizens or permanent residents can use the automatic kiosks at customs and immigration
 
 `Prohibited`
 
-禁止
+禁止 adj/verb
 
 Certain items like firearms or weapons are prohibited to travel with.
+
+`flammable`/`combustible` 易燃的
+
+`tobacco`/`cigarettes` 烟
+
+`germs` 细菌 `parasite` 寄生虫
 
 ## Homework
 Write a dialog going through customs.

@@ -66,6 +66,10 @@ I definitely prefer window seats. What about you?
 
 I perfer exit row.
 
+definitely : `deh·fuh·nuht·lee` 
+
+exactly: `uhg·zakt·lee`
+
 `Boarding time` / `Departure time`/ `Priority boarding`
 
 登机时间/出发时间 优先登机
