@@ -9,7 +9,7 @@ Does route 22 stop here?
 
 `Subway system`
 
-地铁系统 also called metro in some countries
+地铁系统 also called metro in some countries  `subway`,`metro`,`tube`
 
 Do you know the subway system well?
 
@@ -23,13 +23,13 @@ What bus stop is it? What subway stop do I need?
 
 `Bus station` / `subway station`
 
-汽车站/地铁站
+汽车站/地铁站  bus station usually the end of the route.
 
 You can get the bus at the bus station.
 
 `Transit card` / `metro card`
 
-交通卡
+交通卡  `charge`/`recharge`/`top up`
 
 How much is a transit card?
 
@@ -57,7 +57,7 @@ Wait on the platform for the next train.
 
 `Line` / `queue`
 
-排队
+排队  `cut in line`:插队
 
 Line up to get on the train.
 
@@ -96,6 +96,10 @@ I always give up my seat to the elderly.
 
 It’s not easy for disabled people to take public transit, so you should help them out if you
 can.
+
+`tram`
+
+small train. or electric bus.(e-bus)
 
 # Common Phrases
 * Please move to the back of the bus.
