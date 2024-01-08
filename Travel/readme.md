@@ -5,3 +5,5 @@
 * [Taking a Taxi](./Taking_a_Taxi.md)
 * [Public transit](./Public_transit.md)
 * [Renting a car](./Renting_a_car.md)
+* [Checking into a hotel](./Checking_into_a_hotel.md)
+* [Checking out of a hotel](./Checking_out_of_a_hotel.md)

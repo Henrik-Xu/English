@@ -1,9 +1,11 @@
 ## Renting a car
 `Rental fee`
 
-租赁费
+租赁费  renters-people who rent.
 
-How much is the rental fee?
+How much is the rental fee? 
+
+when it's come to house, we usually say rent. How much rent is for this apartment.
 
 `Insurance`
 
@@ -29,13 +31,19 @@ How much mileage is on the car?
 
 What’s the make and model of the car?
 
-`Gas` / `Gas tank`
+`Rolls`-劳斯莱斯 `Toyota`-丰田 `Honda`-本田 `volkswagen`-大众 `Lamborghini`/`Lambor`-兰博基尼
 
-油 / 油箱
+`BMW`/`Beamer`-宝马 `chevrolet`-雪佛兰 `mercedes`-梅赛德斯 `hyundai`-现代
+
+`Gas` / `Gas tank`  `petrol`/`petrol station` 
+
+油 / 油箱   汽油/加油站
 
 Does the car come with a full gas tank?
 
 Do I have to fill up the gas when I return the car?
+
+`full serve` or `self serve` `pump gas`加油
 
 `Reserve` / `reservation`
 
@@ -55,13 +63,11 @@ Hi, I want to book a rental car please?
 
 Does this airport have a car rental agency? Where can I find it?
 
+`second hand car`/`used car`/`second hand things`
+
 `Renter`
 
 出租人
-
-It’s impossible to get a seat during rush hour.
-
-Do you give up your seat for others?
 
 `One-way rental`
 
@@ -71,7 +77,9 @@ Do you have cars available for a one-way rental?
 
 `Vehicle`
 
-车
+车 different type of cars
+
+`car`, `truck`, `SUV`/`sport utility vehical`, `limo`(豪华轿车), `van`(货车)/`lorry` `semi-truck`(半卡车)
 
 What kind of vehicles do you have?
 
@@ -79,7 +87,7 @@ What is the biggest vehicle you have? Do you have one that can seat 5 people.
 
 `Car` / `sedan` / `truck` / `SUV`
 
-车/轿车/卡车/越野车
+车/轿车/卡车/越野车  `sedan`-三厢轿车
 
 What kind of vehicle do you prefer? I prefer a car or an SUV.
 
@@ -97,7 +105,7 @@ Let’s take a rental car and go on a road trip.
 * How about the gas tank? Is it full already? Do I need to fill it up when I bring
 the car back?
 * Do you want insurance for an additional fee?
-* Do you have any cars with winter tires?
+* Do you have any cars with winter tires? `winter tires`-雪胎
 * What kind of vehicles do you have available?
 * Do you have any one-way rental options?
 ## Discussion Questions
