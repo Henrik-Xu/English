@@ -1,5 +1,5 @@
 # Checking into a hotel
-`Front desk` / `guest services`
+`Front desk` / `guest services`/`information desk`/`counter`
 
 前台/宾客服务
 
@@ -7,17 +7,25 @@ You can check-in at the front desk.
 
 Any questions feel free to ask us at guest services.
 
+`lobby`
+
+大堂
+
 `Vacancy` / `no-vacancy`
 
-空缺/没有空缺
+空缺/没有空缺 rooms avaliable/rooms unavaiable. `vacant` adj
 
 Do you have any vacant rooms?
 
 `Valet`
 
-为顾客停车的服务员
+为顾客停车的服务员  car parking services.
 
 I need to get my car from the valet.
+
+`bellhop`
+
+the one who carry your bags/luggage/baggage.
 
 `Concierge`
 
@@ -27,7 +35,9 @@ If you’d like to order tickets for an event you can check with the hotel conci
 
 `Continental breakfast`
 
-欧式早餐
+欧式早餐 free breakfast including:fruit,bread,cereal(谷物),eggs,bacon(熏肉)
+
+British breakfast:eggs,sausage(香肠),beans(豆子),toast(吐司)
 
 Does this hotel have a continental breakfast?
 
@@ -45,7 +55,7 @@ I want to order some food from room service.
 
 `Amenities`
 
-便利设施
+便利设施 example:pool,hot tub(热水浴缸),spa,gym(fitness center),sauna(桑拿),restaurant,bar,ballroom(舞厅)，laundry rooms,business center.
 
 What kind of amenities does this hotel have? Is there a pool and hot tub?
 
@@ -57,6 +67,10 @@ What size of beds does the room have? The room has 2 double beds.
 
 Do you have a room with a king-sized bed?
 
+`cot`
+
+婴儿床, small bed that can be added to a room.
+
 `Mini fridge`
 
 小型冰箱
@@ -66,7 +80,7 @@ it?
 
 `Housekeeping`
 
-家务
+家务 changing bed sheets,replacing towles. 
 
 What time will housekeeping come up?
 
@@ -84,7 +98,7 @@ Can I get some extra towels in my room?
 
 Can you ask housekeeping to change the bedsheets for me?
 
-`Complimentary`
+`Complimentary`/`give away`
 
 免费
 
@@ -96,6 +110,12 @@ This hotel has high quality complimentary toiletries. Much better than most hote
 
 Most hotels offer complimentary toiletries such as toothbrushes, toothpaste, shampoo, soap,
 and a comb.
+
+`blanket`-被子  `duvet`-羽绒被  
+
+`quilt`-密绗被；又可以衍生带水洗效果的，称之为水洗被。这种Quilt，用电脑绣花机，绗绣一体机，或者多针绗缝机都可以生产
+
+
 
 ## Common Phrases
 * Hello, I’d like to check-in please.
