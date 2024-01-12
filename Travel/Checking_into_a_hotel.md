@@ -115,7 +115,17 @@ and a comb.
 
 `quilt`-密绗被；又可以衍生带水洗效果的，称之为水洗被。这种Quilt，用电脑绣花机，绗绣一体机，或者多针绗缝机都可以生产
 
+`hotel chain`/`hotel brand`
 
+酒店品牌
+
+`Bed and Breakfast `/`B&B`
+
+`pervs`: 变态人
+
+`stalkers`: 跟踪狂
+
+`pickpockets`: 扒手
 
 ## Common Phrases
 * Hello, I’d like to check-in please.

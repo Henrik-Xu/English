@@ -7,3 +7,5 @@
 * [Renting a car](./Renting_a_car.md)
 * [Checking into a hotel](./Checking_into_a_hotel.md)
 * [Checking out of a hotel](./Checking_out_of_a_hotel.md)
+* [Exchanging Money](./Exchange_money.md)
+* [At the restaurant](./At_the_restaurant.md)

@@ -17,7 +17,7 @@ How much is the room deposit?
 
 Please return your room keys.
 
-`Additional fee`
+`Additional fee`/`extra fee`
 
 附加费
 
@@ -41,7 +41,7 @@ Your bill comes to $XXX.XX. How are you going to pay?
 
 How much is it? That doesn’t sound right, can I see the itemized bill?
 
-`Receipt`
+`Receipt`/`invoice`
 
 发票
 
@@ -92,6 +92,20 @@ Excuse me, I think I left my camera in the room. Does the hotel have a lost and 
 You didn’t leave anything in the safe right?
 
 Did you remember to take our passports out of the safe?
+
+`luxury items`
+
+奢侈品
+
+`prongs`-尖锐的
+
+`2 prong plug`-双插口插座
+
+`3 prong plug`-三插口插座
+
+`outlet`-出口
+
+`tourist trap`-旅游陷阱
 
 ## Common Phrases
 * Hello, I’d like to check-out please.
