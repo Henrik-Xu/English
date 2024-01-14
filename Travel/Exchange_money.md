@@ -40,17 +40,21 @@ How much is the exchange fee? Is the exchange fee included?
 
 Can I use a cheque to buy Euros?
 
+`bounce a check`: not enough money in your bank account.
+
 `Traveler’s Cheque`
 
 旅行支票
 
 Can I exchange my traveler’s cheque here? I have a traveler’s check for 500 CAD.
 
-`ATM`
+`ATM`: `automatic teller machine`
 
 自动取款机
 
 Can I use my bank card to withdraw money abroad?
+
+`Bank teller`: person who works at bank.
 
 `Withdraw` / `Deposit`
 

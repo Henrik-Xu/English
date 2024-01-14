@@ -5,6 +5,10 @@
 
 Can we sit at a booth?
 
+`private room`
+
+单间
+
 `A table for …`
 
 几人卓：几位
@@ -13,7 +17,7 @@ Hi, a table for 5 please.
 
 `Party`
 
-聚会
+聚会，group
 
 How big is your party?
 
@@ -21,11 +25,11 @@ We’re a party of 5.
 
 `Patio`
 
-平台
+平台 outdoor seating area.
 
 Can we get a table on the patio? Are there any free tables on the patio?
 
-`Menu` / `Drink menu`
+`Menu` / `Drink menu`/`wine menu`/`dessert menu`
 
 菜单/饮料菜单
 
@@ -38,6 +42,14 @@ Here is the menu, and the drink menu. The wine list is on the back of the drink 
 Want to share an appetizer?
 
 I think I want a starter salad.
+
+`wine pairing`
+
+下酒菜
+
+`pub food`
+
+`pub`: restaurant/bar,french fries,cheeseburgers,chicken wings,ribs.
 
 `Main course`
 
@@ -81,6 +93,24 @@ Our daily special is the Ahi Tuna, it comes with a side of salad.
 汤：奶油蘑菇，雷斯特龙，罗宋汤，蛤蜊浓汤
 
 `Main Courses`: `Steak`, `Ribs`, `Beef Stroganoff`, `Pasta`, `Gnocchi`
+
+## end of the meal, you could ask:
+
+* Hi can we get the bill please? bill-check.
+
+* can we just get the check please?
+
+* Are you paying together or separate?
+
+* We'll split the bill, we'll pay separately.
+
+* Just one bill, we'll pay together.
+
+* do you want to start your tab? `tab` - `bar tab`
+
+* can i pay my tab now.
+
+
 
 主菜：牛排，排骨，牛肉，意大利面，意大利面
 
