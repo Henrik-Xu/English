@@ -94,6 +94,8 @@ Our daily special is the Ahi Tuna, it comes with a side of salad.
 
 `Main Courses`: `Steak`, `Ribs`, `Beef Stroganoff`, `Pasta`, `Gnocchi`
 
+主菜：牛排，排骨，牛肉，意大利面，意大利面
+
 ## end of the meal, you could ask:
 
 * Hi can we get the bill please? bill-check.
@@ -110,9 +112,9 @@ Our daily special is the Ahi Tuna, it comes with a side of salad.
 
 * can i pay my tab now.
 
+`baijiu`
 
-
-主菜：牛排，排骨，牛肉，意大利面，意大利面
+白酒
 
 ## Common Phrases
 * Can I have a table for two?
