@@ -9,3 +9,5 @@
 * [Checking out of a hotel](./Checking_out_of_a_hotel.md)
 * [Exchanging Money](./Exchange_money.md)
 * [At the restaurant](./At_the_restaurant.md)
+* [Going shopping](./Going_shoping.md)
+* [Going sightseeing](./Going_sightseeing.md)

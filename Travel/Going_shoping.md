@@ -17,9 +17,17 @@ What size is this? Do you have this in a size medium?
 
 Do you have this kind of style?
 
-jeans style:`skinny jeans`,`high waist jeans`,`low rise jeans`,`mid rise jeans`,`baggy jeans`,`flare jeans`
-
-`bell bottom jeans`,`straight leg jeans`,`boot cut jeans`,`overalls jeans`
+## jeans style
+* `skinny jeans`: 紧身牛仔裤
+* `high waist jeans`: 高腰牛仔裤
+* `low rise jeans`: 低腰牛仔裤
+* `mid rise jeans`: 中腰牛仔裤
+* `baggy jeans`: 宽松的牛仔裤
+* `flare jeans`: 喇叭牛仔裤
+* `bell bottom jeans`: 喇叭裤牛仔裤
+* `straight leg jeans`: 直筒牛仔裤
+* `boot cut jeans`: 靴型牛仔裤
+* `overalls jeans`: 工装裤 牛仔裤
 
 `Name brand`
 
@@ -55,7 +63,7 @@ This is a final sale because it’s a clearance item.
 
 `Sale rack` / `Clearance rack`
 
-销售货架/清仓货架  rack means hung sht. `shelf` 架子
+销售货架/清仓货架  `shelf` 架子
 
 Do you have a sale rack?
 
@@ -104,7 +112,7 @@ Department stores usually have better sales.
 * Do you have a clearance section/rack?
 * Do you carry any name brands?
 * What name brands do you carry?
-* Do you carry “Canadian Goose”?
+* Do you carry “Canada Goose”?
 ## Discussion Questions
 1. Do you like to go shopping while you’re traveling?
 2. Do you prefer to shop at department stores or boutiques?
