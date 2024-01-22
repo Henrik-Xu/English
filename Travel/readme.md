@@ -11,3 +11,4 @@
 * [At the restaurant](./At_the_restaurant.md)
 * [Going shopping](./Going_shoping.md)
 * [Going sightseeing](./Going_sightseeing.md)
+* [Taking pictures](./Taking_pictures.md)

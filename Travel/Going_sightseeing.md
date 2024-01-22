@@ -19,6 +19,8 @@ That area is a little bit touristy.
 
 Venice is beautiful, but very touristy.
 
+`flora and fauna` - plants and animals.
+
 `Information pamphlet`
 
 资料小册子; 手册
@@ -115,6 +117,8 @@ The Colosseum is a must-see attraction if you visit Rome.
 * Trevi Fountain: 特雷维喷泉
 * The Pantheon: 万神殿
 * The Roman Forum: 罗马广场
+
+`Terra Cotta` is a type pottery.
 
 ## Discussion Questions
 1. What do you think is the most important travel destination in China? In
