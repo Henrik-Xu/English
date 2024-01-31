@@ -12,3 +12,4 @@
 * [Going shopping](./Going_shoping.md)
 * [Going sightseeing](./Going_sightseeing.md)
 * [Taking pictures](./Taking_pictures.md)
+* [Exploring the city](./Exploring_the_city.md)

@@ -5,11 +5,13 @@
 
 This is the business district.
 
-`Locals`
+`Locals` adj,noun
 
-当地人
+当地人 opsite of `foreigner`,`tourist`,`visitor`,`compat`
 
 This is the best market in town. It’s where all the locals shop.
+
+Let's asl a local.
 
 `Market`
 
@@ -31,7 +33,7 @@ You can often find Canadian Geese in Canadian parks.
 
 市中心
 
-I like right downtown. It’s so convenient.
+I live right downtown. It’s so convenient.
 
 `Central Business District`
 
@@ -75,7 +77,7 @@ Have you ever been to Vancouver’s Chinatown? It’s a really cool neighbourhoo
 
 If you want authentic Italian food, then you have to go to a restaurant in little Italy.
 
-`Apartment buildings`
+`Apartment buildings`/ `condo` is short for `condominium`/ `flat`(in UK)
 
 公寓楼
 
@@ -86,6 +88,26 @@ This area has a lot of apartment buildings.
 摩天大楼
 
 Wow, this city has so many skyscrapers! 
+
+`embassy`
+
+大使馆
+
+`grocery`
+
+杂货店
+
+`Brum and Bell towers`
+
+钟楼和鼓楼
+
+`neat` - interesting, cool.
+
+`delicacy`
+
+美味 noun
+
+整洁的，有趣的
 
 ## Helpful phrases
 * Where’s the best area for shopping?
@@ -148,3 +170,5 @@ where you’ll be living.
 F: Great, thanks for all the advice!
 
 M: Of course, ask me anything you need to anytime. 
+
+
