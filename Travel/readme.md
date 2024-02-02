@@ -13,3 +13,6 @@
 * [Going sightseeing](./Going_sightseeing.md)
 * [Taking pictures](./Taking_pictures.md)
 * [Exploring the city](./Exploring_the_city.md)
+* [Historic site](./Historic_site.md)
+* [Trying local food](./Trying_local_food.md)
+* [Travel documents](./Travel_documents.md)

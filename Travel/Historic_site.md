@@ -3,7 +3,15 @@
 
 古老的 – over 1000 years old
 
-This is the business district.
+They have ancient ruins here.
+
+`Medieval time`
+
+1100 - 1600
+
+`wreckage`
+
+残骸，`ruins`: 残余部分
 
 `Founded`
 
@@ -13,7 +21,7 @@ The city of Vancouver was founded in 1886.
 
 `Centennial`
 
-百年
+百年 `cent` means 100
 
 To celebrate the Centennial many cities build a Centennial Park.
 
@@ -43,15 +51,25 @@ Most historical buildings from the Medieval Ages are gothic style.
 
 The Temple is an important heritage site.
 
-`Church` / `Cathedral` / `Synagogue` / `Temple` / `Mosque`
+`Church` / `Cathedral` / `Synagogue` / `Temple` / `Mosque` / `shrine`
 
-教堂/大教堂/犹太教堂/寺庙/清真寺
+教堂/大教堂/犹太教堂/寺庙/清真寺/神社 important religious buildings.
 
-Christians go to churches and cathedrals to worship. Jews go to synagogues t o worship.
+Christians go to churches and cathedrals to worship. Jews go to synagogues to worship.
 
 Buddhists worship at temples. And Muslims worship in mosques.
 
 These religious sites are very important for a cities history.
+
+`Christians` - 基督徒
+
+`Jews` - 犹太人
+
+`Buddhists` - 佛教徒
+
+`Muslims` - 穆斯林
+
+`worship` - 朝拜
 
 `Preserved`
 
@@ -61,7 +79,7 @@ The city is trying to preserve old buildings like this.
 
 `Restored` / `restoration`
 
-恢复
+恢复 verb/noun
 
 The area of the Great Wall for tourists to visit has been restored.
 
@@ -90,12 +108,6 @@ Rome has some beautiful public squares like Campo De’ Fiori.
 纪念碑
 
 Have you seen the Statue of Liberty? That’s one of the most famous monuments in the world. 
-
-`Art Deco`
-
-Classical 
-
-Gothic (architecture)
 
 ## Famous Historical Sites around the world
 * Empire State Building, New York City

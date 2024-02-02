@@ -11,7 +11,7 @@ This is the business district.
 
 This is the best market in town. It’s where all the locals shop.
 
-Let's asl a local.
+Let's ask a local.
 
 `Market`
 
