@@ -1,7 +1,7 @@
 # Travel Documents
 `Visa`
 
-签证 `travel visa` / `work visa` / `student visa` / `family visa`
+签证 `travel visa` / `work visa` / `student visa` / `family visa`/ `diplomatic visa`(外交签证)/ `crew member visa`(船员签证)
 
 What kind of visa do you have? I have a student visa.
 
@@ -78,7 +78,7 @@ residence.
 
 `Refugee`
 
-味蕾
+难民
 
 Refugees need to provide a background check to be granted refugee status.
 

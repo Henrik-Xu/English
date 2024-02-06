@@ -120,6 +120,12 @@ The Colosseum is a must-see attraction if you visit Rome.
 
 `Terra Cotta` is a type pottery.
 
+`swindle` - `scam` 骗取
+
+`facial recognition` - 面部识别
+
+`candid` - 抢拍的，偷拍的照片
+
 ## Discussion Questions
 1. What do you think is the most important travel destination in China? In
 North America?

@@ -16,3 +16,6 @@
 * [Historic site](./Historic_site.md)
 * [Trying local food](./Trying_local_food.md)
 * [Travel documents](./Travel_documents.md)
+* [Travel emergencies](./Travel_emergencies.md)
+* [Ask for directions](./Ask_for_directions.md)
+* [Changing your flight](./Changing_your_flight.md)
