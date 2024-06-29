@@ -57,7 +57,7 @@ I usually don’t eat bread for breakfast but “when in Rome” I guess.
 
 `Flavor`
 
-风味
+风味   `sour` `sweet` `bitter` `spicy` `salty` `greasy`-油腻 `numbing spicy`-麻辣
 
 The flavor of food here is very spicy.
 
@@ -69,7 +69,7 @@ My poor taste buds can’t handle all this spicy food.
 
 `palate`
 
-味觉，品尝里
+味觉，品尝里 `palate`-上颚,味觉，品尝力
 
 It's made for the American palate, so it's taste very different.
 

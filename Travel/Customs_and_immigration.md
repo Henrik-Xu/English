@@ -106,6 +106,8 @@ Certain items like firearms or weapons are prohibited to travel with.
 
 `germs` 细菌 `parasite` 寄生虫
 
+`confiscated`: `taken away` 没收
+
 ## Homework
 Write a dialog going through customs.
 

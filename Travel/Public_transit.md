@@ -101,6 +101,12 @@ can.
 
 small train. or electric bus.(e-bus)
 
+`total`
+
+my car got totaled
+
+我的车完全报废了
+
 # Common Phrases
 * Please move to the back of the bus.
 * The next station is “***”.

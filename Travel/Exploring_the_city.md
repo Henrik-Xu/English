@@ -7,7 +7,7 @@ This is the business district.
 
 `Locals` adj,noun
 
-当地人 opsite of `foreigner`,`tourist`,`visitor`,`compat`
+当地人 opsite of `foreigner`,`tourist`,`visitor`,`expat`
 
 This is the best market in town. It’s where all the locals shop.
 
