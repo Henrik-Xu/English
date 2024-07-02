@@ -6,3 +6,5 @@
 * [Long e](./Long_e.md)
 * [Long i](./Long_i.md)
 * [Long o](./Long_o.md)
+* [Long u](./Long_u.md)
+* [r controlled vowels](./R_controlled_vowels.md)
