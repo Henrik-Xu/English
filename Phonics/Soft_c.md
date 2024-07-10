@@ -66,4 +66,10 @@ We read soft c when the c is followed by e,i, or y.
 
 `policy` 政策
 
-cyclops 独眼巨人
+`cyclops` 独眼巨人
+
+I think mice are nice. One is named Nancy and one is named Lucy. Lucy likes
+
+to cycle, and Nancy likes to drink fancy cider. They go to the cinema. At the
+
+cinema they come face to face with the prince.
