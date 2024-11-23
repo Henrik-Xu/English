@@ -269,3 +269,5 @@ Self discipline is a bridge between goals and accomplishments
 - *I used to wear my sister's hand-me-downs when I was a kid.* （我小时候常穿我姐姐传给我的旧衣服。）
 
 “Hand-me-downs” 不仅限于衣服，也可以是玩具、家具等二手物品。它通常带有一种节俭或家庭共享的意味。
+
+* 
